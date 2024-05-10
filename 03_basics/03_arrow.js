@@ -17,7 +17,7 @@ const user = {
 
 // function chai(){
 //     let username = "hitesh"
-//     console.log(this.username);
+//     console.log(this.username);  //functions k upr this is trf se nhi kr skte print
 // }
 
 // chai()
